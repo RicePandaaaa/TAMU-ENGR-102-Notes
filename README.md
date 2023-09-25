@@ -4,7 +4,7 @@ Howdy! My name is Anthony Pham, and at the time of creating this repository, I a
 <ul>
   <li>A .ipynb file with reviews note I made about each module</li>
   <li>Some practice problems and their solutions (if applicable)</li>
-  <li><a href="https://github.com/RicePandaaaa/ENGR-102-Fall-2023/main/README.md#videos">Topic review videos made by me</a></li>
+  <li><a href="https://github.com/RicePandaaaa/ENGR-102-Fall-2023/blob/main/README.md#videos">Topic review videos made by me</a></li>
 </ul>
 
 These resources are sorted by modules (one module per week essentially), so if you're looking for Module 3 or Week 3 content, check the Module 3 folder! This repository updates slowly over time, and thus can be incomplete. All code, notes, and videos posted here are my own, but they are made with lecture notes in mind (as these are supplementary, not a replacement of classroom resources). Also any sort of practice problems used are of my own unless otherwise stated (sometimes I'll use previous exam questions with professor approval).
