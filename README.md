@@ -24,7 +24,7 @@ If you just want to read over the notes (in the ipynb files), you can just click
 ## Videos
 
 <b>Functions (Basic Info)</b>: https://www.youtube.com/watch?v=uaWyNAH2wiw&ab_channel=AnthonyPham
-Topics Covered:
+<br>Topics Covered:
 <ul>
   <li>Definition of a function</li>
   <li>Structure of a function</li>
