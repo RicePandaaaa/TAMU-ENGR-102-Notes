@@ -39,6 +39,6 @@ If you just want to read over the notes (in the ipynb files), you can just click
   <li>Analyzing the prompt</li>
   <li>Planning + Psuedocode</li>
   <li>Structuring code with comments</li>
-  <li>Coverting plans to code</li>
+  <li>Converting plans to code</li>
   <li>Testing</li>
 </ul>
