@@ -23,15 +23,6 @@ If you just want to read over the notes (in the ipynb files), you can just click
 
 ## Videos
 
-<b>Functions (Basic Info)</b>: https://youtu.be/uaWyNAH2wiw
-<br>Topics Covered:
-<ul>
-  <li>Definition of a function</li>
-  <li>Structure of a function</li>
-  <li>Parameters</li>
-  <li>"return" statement</li>
-</ul>
-
 <br>
 <b>Planning and Coding FRQs</b>: https://youtu.be/nz4H60lG4yY
 <br>Topics Covered:
