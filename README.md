@@ -1,6 +1,6 @@
 # Fall 2023 - ENGR 102 Supplemental Resources
 
-Howdy! My name is Anthony Pham, and at the time of creating this repository, I am a junior MXET (Mechatronics track) major, class of 2025, and I am also a peer teacher for ENGR 102! These supplemental resources will contain:
+Howdy! My name is Anthony Pham, and at the time of creating this repository, I am a senior MXET (Mechatronics track) major, class of 2025, and I am also a peer teacher for ENGR 102! These supplemental resources will contain:
 <ul>
   <li>A .ipynb file with reviews note I made about each module</li>
   <li>Some practice problems and their solutions (if applicable)</li>
