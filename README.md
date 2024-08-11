@@ -1,8 +1,9 @@
-# Fall 2023 - ENGR 102 Supplemental Resources
+# ENGR 102 Supplemental Resources (updated Summer 2024)
 
-Howdy! My name is Anthony Pham, and at the time of creating this repository, I am a senior MXET (Mechatronics track) major, class of 2025, and I am also a peer teacher for ENGR 102! These supplemental resources will contain:
+Howdy! My name is Anthony Pham, and as of Fall 2024, I am a senior MXET (Mechatronics track) major, class of 2025, and I am also a peer teacher for ENGR 102! These supplemental resources will contain:
 <ul>
-  <li>A .ipynb file with reviews note I made about each module</li>
+  <li>Jupyter notebook (.ipynb) files with reviews note I made about each module</li>
+  <l1>The PDF version of the notebook files</li>
   <li>Some practice problems and their solutions (if applicable)</li>
   <li><a href="https://github.com/RicePandaaaa/ENGR-102-Fall-2023/blob/main/README.md#videos">Topic review videos made by me</a></li>
 </ul>
