@@ -1,4 +1,6 @@
-# ENGR 102 Supplemental Resources (last updated August 27, 2024)
+# ENGR 102 Supplemental Resources
+
+**Last Updated:** August 27, 2024
 
 Howdy! My name is Anthony Pham, and as of Fall 2024, I am a senior MXET (Mechatronics track) major, class of 2025, and I am also a peer teacher for ENGR 102! These supplemental resources will contain:
 <ul>
