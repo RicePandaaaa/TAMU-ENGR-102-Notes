@@ -3,6 +3,7 @@
 Howdy! My name is Anthony Pham, and as of Fall 2024, I am a senior MXET (Mechatronics track) major, class of 2025, and I am also a peer teacher for ENGR 102! These supplemental resources will contain:
 <ul>
   <li>Jupyter notebook (.ipynb) files with reviews note I made about each module</li>
+  <li>The HTML version of the notebook file (can be opened in a browser)</li>
   <l1>The PDF version of the notebook files</li>
   <li>Some practice problems and their solutions (if applicable)</li>
   <li><a href="https://github.com/RicePandaaaa/TAMU-ENGR-102-Notes/blob/main/README.md#videos">Topic review videos made by me</a></li>
