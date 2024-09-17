@@ -1,6 +1,7 @@
 # ENGR 102 Supplemental Resources
 
-**Last Updated:** August 27, 2024
+**Last Updated:** September 17, 2024
+**Last Edit:** Added slicing to numpy (Module 12) notes
 
 Howdy! My name is Anthony Pham, and as of Fall 2024, I am a senior MXET (Mechatronics track) major, class of 2025, and I am also a peer teacher for ENGR 102! These supplemental resources will contain:
 <ul>
